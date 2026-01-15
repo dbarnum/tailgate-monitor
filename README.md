@@ -16,3 +16,7 @@ Mr. DIY's Channel -    / @mrdiyca
 Get ESP32 Mac Address - https://randomnerdtutorials.com/get-c...
 
 
+### battery Charger 
+[Charger](https://www.amazon.com/dp/B007ESQW08/ref=cm_sw_r_as_gl_api_gl_i_82VPCGKNAKG2AJK2A2P4?linkCode=ml1&tag=royaltyautose-20&linkId=53f9db7bb9ba74bd218ef86f5e71d86b&th=1) 
+
+
