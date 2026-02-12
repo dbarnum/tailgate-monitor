@@ -21,3 +21,6 @@ Get ESP32 Mac Address - https://randomnerdtutorials.com/get-c...
 
 ### CAN DBC Files 
 * [Tutorial](https://www.csselectronics.com/pages/can-dbc-file-database-intro])
+### ESP32Ret 
+[https://www.youtube.com/watch?v=NDBkXGyBT88](Video)
+* WiFi mrdiy.ca 
